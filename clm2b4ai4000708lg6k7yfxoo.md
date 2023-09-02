@@ -1,8 +1,8 @@
 ---
-title: "CSS Animation Made Extremely Ease"
+title: "CSS Animation Made Extremely Easy"
 datePublished: Sat Sep 02 2023 17:37:45 GMT+0000 (Coordinated Universal Time)
 cuid: clm2b4ai4000708lg6k7yfxoo
-slug: css-animation-made-extremely-ease
+slug: css-animation-made-extremely-easy
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SXihyA4oEJs/upload/049716baaff45feaf660b66438b32b73.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693672689108/1643cb6a-fffd-4d4e-ad47-7a870d37e66b.jpeg
 tags: css, css-animation, javascript-library, frontend-development
