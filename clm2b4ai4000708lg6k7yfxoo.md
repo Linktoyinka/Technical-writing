@@ -17,7 +17,7 @@ Having a website is a must for anyone who wants to have an online presence. When
 
 One of the ways to do this is to add friendly animations to your website and not overuse them. Most developers don't animate websites because it takes time and is stressful. With Animate on Scroll, animating websites is now easier than before. In this article, I will teach you how to animate your website with **AOS**.
 
-# **Prerequisites**
+# Prerequisites
 
 * Basic knowledge of HTML and CSS.
     
