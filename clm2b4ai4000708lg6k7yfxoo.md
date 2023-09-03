@@ -13,7 +13,7 @@ Animating in CSS using keyframes requires time and effort. This is because it is
 
 # Introduction
 
-Having a website is a must for anyone who wants to have an online presence. When you have the website, you can tell the people on the internet about what they do or the services they render. The joy of every website owner is for people to find their website interesting. This will make website visitors spend more time and read more content on your website.
+Having a website is a must for anyone who wants to have an online presence. When you have a website, you can tell people on the internet about what you do or the services you render. The joy of every website owner is for people to find their website interesting. This will make website visitors spend more time and read more content on your website.
 
 One of the ways to do this is to add friendly animations to your website and not overuse them. Most developers don't animate websites because it takes time and is stressful. With Animate on Scroll, animating websites is now easier than before. In this article, I will teach you how to animate your website with **AOS**.
 
