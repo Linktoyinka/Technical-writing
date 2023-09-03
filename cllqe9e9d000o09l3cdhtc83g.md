@@ -19,7 +19,7 @@ Infinite Loop Ltd created a free JavaScript library called SmtpJS. It was design
 
 You require prior knowledge of HTML and CSS to create and style your form as well as a fundamental understanding of JavaScript to set up SmtpJS.
 
-### **Creating the HTML structure**
+### Creating the HTML structure
 
 Writing code for your contact form's HTML structure.
 
@@ -134,7 +134,7 @@ Email.send({
 
 The HTML form needs to be properly integrated with JavaScript using the following procedure to enable seamless email sending.
 
-1. The script will be contained within a function. The function will be called `onSubmit` in the form opening tag, which requires us to add the function with the other attributes required for email status notification.
+1. The script will be contained within a function. The function will be called `onSubmit` in the form opening tag, which requires us to add the function with the other attributes required for email status notifications.
     
     ```xml
      <form onsubmit="sendEmail(); reset; return false;">
@@ -369,4 +369,4 @@ Your contact form will now begin sending emails directly from your website to th
 
 ## Conclusion
 
-Although sending emails is undoubtedly a server-side operation, you can prevent server-side operations. In order to replace the back-end service and streamline your front end so that it can send emails, you need SmtpJS and ElasticEmail. You must select ElasticEmail because it is currently the only SMTP service that SmtpJS recognizes.
+Although sending emails is undoubtedly a server-side operation, you can prevent server-side operations. To replace the back-end service and streamline your front end so that it can send emails, you need SmtpJS and ElasticEmail. You must select ElasticEmail because it is currently the only SMTP service that SmtpJS recognizes.
